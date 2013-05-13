@@ -22,7 +22,7 @@ public class MainActivity extends Activity implements LoaderCallbacks<Cursor> {
 		ListView lv = (ListView) findViewById(R.id.listView1);
 		lv.setAdapter(mAdapter);
 	}
-
+//.....
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
